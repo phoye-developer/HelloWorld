@@ -1,3 +1,5 @@
+![headshot](My_Headshot_Small.jpg)
+
 ## A little insight into Patrick Hoye
 Hi Everyone! My name is Patrick Hoye. This README will give you a little bit of info about me.
 
