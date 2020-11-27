@@ -10,4 +10,4 @@ I am passionate about helping others build custom solutions, so I want to build 
 I enjoy learning how to code and writing code. Also, I enjoy movies, music, and hanging out with friends and family.
 
 ## My Favorite Books
-I enjoy books about technology. Mostly, this means books about coding or software development in general.
+I enjoy books about technology. Mostly, this means books about coding or software development.
