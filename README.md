@@ -1,7 +1,7 @@
 ![headshot](My_Headshot_Small.jpg)
 
 ## A little insight into Patrick Hoye
-Hi everyone! My name is Patrick. This README will give you a little bit of info about me.
+Hi everyone! My name is Patrick. This README will give you a little bit of information about me.
 
 ## My Career Passions
 I am passionate about helping others build custom solutions, so I want to build my skills as a developer. Ideally, this would lead to a full-time position as a full-stack developer.
