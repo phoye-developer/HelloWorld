@@ -1,2 +1,0 @@
-# Example Heading
-Example text.
